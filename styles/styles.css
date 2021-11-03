@@ -1,0 +1,58 @@
+#title {
+	
+	padding: 30px 10px 30px 10px;
+	margin-bottom: 0px;
+	font-size: xx-large;
+}
+
+#titleTag {
+	
+	margin-top: 0px;
+	padding-bottom: 5px;
+	font-size: large;
+}
+#img-div {
+	background-color: rgb(87,39, 29, 0.9);
+	padding: 0px;
+}
+
+body	{
+	background-color: rgb(29,77,87,0.5);
+	font-family: 'Open Sans', sans-serif;
+	line-height: 1.5;
+}
+
+img {
+	max-width: 100%;
+	height: auto;
+	margin: 0px auto;
+	display: block;
+	/*border-radius: 0.75%;*/
+}
+
+.text-center {
+	text-align: center;
+}
+
+ul	{
+	max-width: 550px;
+	margin: 0 auto 0 auto; /*centers the ul*/
+}
+
+li {
+	padding-top: 10px;
+}
+
+#linkToAchievements {
+	padding-bottom: 20px;
+}
+
+blockquote {
+	font-style: italic;
+	max-width: 545px;
+	margin: 0 auto 50px auto;
+}
+
+a:hover {
+	color: green;
+}
